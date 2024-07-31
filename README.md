@@ -8,9 +8,13 @@ My work will directly influence Expedia Group's investment decisions and market 
 Project roadmap:
 
 Week 1 : Externship Onboarding
+
 Week 2: Introduction to Digital Advertising
+
 Week 3 : Profiling Indirect competitors
+
 Week 4: Profiling Direct competitors
+
 Week 5: Insights and Presentation
 
 For more details please visit the Wiki page !
